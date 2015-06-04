@@ -21,12 +21,12 @@ or install
 
 Lj consists only of one executable file so if you'll want to uninstall it you can use
 
-'$ sudo make uninstall'
+`$ sudo make uninstall`
 
 or just remove file
 
-'$ sudo rm $(which lj)'
+`$ sudo rm $(which lj)`
 
 ## Config
 
-Makes config at `$HOME/.lj/lj`. Some defaults (username, privacy, adult content, etc) could be set there.
+Makes config at `$HOME/.lj/lj`. Some defaults (username, privacy, adult content, etc) could be set there. Config also can be open directly `lj -c` (`$EDITOR $HOME/.lj/lj`)
