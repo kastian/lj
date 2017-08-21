@@ -30,3 +30,7 @@ or just remove file
 ## Config
 
 Makes config at `$HOME/.lj/lj`. Some defaults (username, privacy, adult content, etc) could be set there. Config also can be open directly `lj -c` (`$EDITOR $HOME/.lj/lj`)
+
+## Troubles
+
+* If you get [FAIL] at the last stage, try to login to livejournal web-interfase. Sometimes they change their terms of use and blocks posting until you agree with it.
